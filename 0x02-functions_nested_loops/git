@@ -1,0 +1,5 @@
+#git_commands
+
+git add .
+git commit -m "a"
+git push
